@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             //code was committed to github
-            Console.Writeline("hello World");
+            Console.WriteLine("hello World");
         }
     }
 }
